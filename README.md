@@ -1,4 +1,4 @@
 # firstday
 my first repository
 <br>
-author - ritiksha chauhan
+author - ritiksha {apna college}
